@@ -1,0 +1,12 @@
+[submodule "vue-blog-web"]
+	path = vue-blog-web
+	url = git@github.com:MyNetdisk/vue-blog-web.git
+[submodule "vue-blog-admin"]
+	path = vue-blog-admin
+	url = git@github.com:MyNetdisk/vue-blog-admin.git
+[submodule "vue-blog-server"]
+	path = vue-blog-server
+	url = git@github.com:MyNetdisk/vue-blog-server.git
+[submodule "vue-blog-database"]
+	path = vue-blog-database
+	url = git@github.com:MyNetdisk/vue-blog-database.git
